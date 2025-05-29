@@ -1,0 +1,5 @@
+# Email Validator Requirements
+dnspython==2.6.1
+email-validator==2.1.1
+pandas==2.2.2
+openpyxl==3.1.2
